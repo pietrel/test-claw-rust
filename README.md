@@ -1,6 +1,6 @@
 # test-claw-rust
 
-A Rust-based AI agent that can interact with the file system and execute shell commands. This project serves as a starting point for building agents with basic tools.
+A Rust-based AI agent that can interact with the file system and execute shell commands. This project has been created as codecrafters challenge and serves as a starting point for building agents with basic tools.
 
 ## Features
 
